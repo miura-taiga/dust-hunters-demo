@@ -1,0 +1,6 @@
+[submodule "dust-hunters-demo-back"]
+	path = dust-hunters-demo-back
+	url = git@github.com:miura-taiga/dust-hunters-demo-back.git
+[submodule "dust-hunters-demo-front"]
+	path = dust-hunters-demo-front
+	url = git@github.com:miura-taiga/dust-hunters-demo-front.git
